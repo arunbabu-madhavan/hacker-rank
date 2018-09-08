@@ -1,2 +1,2 @@
 # hacker-rank
-<h2>Solutions to HackerRank Challenges in Python</h2>
+<h2>Solutions to HackerRank Challenges in Python!</h2>
